@@ -1,11 +1,11 @@
 # Relational-Database
 
-Introduction
+## Introduction
 As I embark on my certification journey in developer tools and software, I’ve explored various technologies that are fundamental to modern software development. This README outlines my findings and experiences as I progress through the courses and projects, focusing on Bash, PostgreSQL, and Git.
 
 ----
 
-Course Overview
+## Course Overview
 1. Learn Bash by Building a Boilerplate
 In this 170-lesson course, I learned essential terminal commands by creating a website boilerplate entirely through the command line. This hands-on approach helped me understand how to manipulate the file system and automate tasks effectively.
 
@@ -50,12 +50,12 @@ As a final required project, I developed a number guessing game using Bash scrip
 
 ----
 
-Conclusion
+## Conclusion
 Through these courses and projects, I have significantly developed my skills in Bash, SQL, and Git. Each project not only reinforced theoretical knowledge but also provided practical experience that I can apply in real-world scenarios. I look forward to continuing my learning journey and applying these skills in future endeavors.
 
 ---
 
-Resources
+## Resources
 I recommend checking out FreeCodeCamp and Geeks for Geeks for additional tutorials and insights as you begin your own learning journey.
 
 Feel free to reach out if you have any questions or want to discuss your own experiences! Happy coding!
