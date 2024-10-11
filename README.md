@@ -8,7 +8,7 @@ As I embark on my certification journey in Relational Databases, I’ve explored
 ----
 
 ## Course Overview
-# 1. Learn Bash by Building a Boilerplate
+### 1. Learn Bash by Building a Boilerplate
 In this 170-lesson course, I learned essential terminal commands by creating a website boilerplate entirely through the command line. This hands-on approach helped me understand how to manipulate the file system and automate tasks effectively.
 
 # 2. Learn Relational Databases by Building a Mario Database
