@@ -3,7 +3,7 @@
 ## ![Background](https://miro.medium.com/v2/resize:fit:1400/0*g0r82-DobHO0DXD_.gif)
 
 ## Introduction
-As I embark on my certification journey in developer tools and software, I’ve explored various technologies that are fundamental to modern software development. This README outlines my findings and experiences as I progress through the courses and projects, focusing on Bash, PostgreSQL, and Git.
+As I embark on my certification journey in Relational Databases, I’ve explored various technologies that are fundamental to modern software development. This README outlines my findings and experiences as I progress through the courses and projects, focusing on Bash, PostgreSQL, and Git.
 
 ----
 
@@ -67,4 +67,4 @@ Feel free to reach out if you have any questions or want to discuss your own exp
 
 ---
 
-<p align="center">&copy; 2024 Venkata Sri Deepthi SriKotaPeetambaram | Data Science Repository</p>
+<p align="center">&copy; 2024 Venkata Sri Deepthi SriKotaPeetambaram | Relational Database Repository</p>
