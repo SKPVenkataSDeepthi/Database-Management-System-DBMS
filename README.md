@@ -58,6 +58,9 @@ Through these courses and projects, I have significantly developed my skills in 
 ## Resources
 I recommend checking out FreeCodeCamp and Geeks for Geeks for additional tutorials and insights as you begin your own learning journey.
 
+- [FreeCodeCamp Relational Database Course](https://www.freecodecamp.org/learn/relational-database/)
+- [Geeks for Geeks DBMS Resource](https://www.geeksforgeeks.org/dbms/?ref=outind)
+
 Feel free to reach out if you have any questions or want to discuss your own experiences! Happy coding!
 
 ---
