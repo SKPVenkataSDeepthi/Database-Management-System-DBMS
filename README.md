@@ -68,4 +68,4 @@ Happy learning!
 
 ---
 
-<p align="center">&copy; 2025 Venkata Sri Deepthi SriKotaPeetambaram | Relational Database Repository</p>
+<p align="center">&copy; 2025 Venkata Sri Deepthi SriKotaPeetambaram |Database Management System (DBMS) Repository</p>
