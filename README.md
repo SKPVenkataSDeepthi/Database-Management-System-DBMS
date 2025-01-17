@@ -8,8 +8,8 @@ This repository provides resources, tutorials, and references for learning and m
 
 1. [DBMS Overview](#dbms-overview)
 2. [MongoDB Developer's Toolkit](#mongodb-developers-toolkit)
-3. [SQL Commands Tutorial](#sql-commands-tutorial)
-4. [Relational Database Tutorial](#relational-database-tutorial)
+3. [SQL](#sql-commands-tutorial)
+4. [Relational Database](#relational-database-tutorial)
 
 ---
 
