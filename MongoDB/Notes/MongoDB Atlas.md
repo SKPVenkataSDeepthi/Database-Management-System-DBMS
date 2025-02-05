@@ -45,7 +45,7 @@ CRUD is a basic way to talk about how we interact with data in a system, like a 
 * Example: In MongoDB, the deleteOne() or deleteMany() methods are used to delete documents from a collection.
 
 
-# Cluster Mnagement with MongoDB Atlas CLI
+# Cluster Management with MongoDB Atlas CLI
 ### Create a new cluster
 mongocli atlas cluster create <cluster-name> --tier M10 --provider AWS --region us-east-1
 
