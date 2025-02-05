@@ -37,7 +37,7 @@ Reference: [MongoDB Developer's Toolkit](https://www.geeksforgeeks.org/courses/m
 
 ---
 
-### 3. SQL Commands Tutorial
+### 3. Structured Query Language
 
 SQL (Structured Query Language) is the standard language for interacting with relational databases. This tutorial covers SQL commands from beginner to advanced levels, helping you build a strong foundation in database querying and manipulation.
 
@@ -48,7 +48,7 @@ Reference: GeeksforGeeks SQL Tutorial](https://www.geeksforgeeks.org/sql-tutoria
 
 ---
 
-### 4. Relational Database Tutorial
+### 4. Relational Database 
 
 A **Relational Database** organizes data into tables with rows and columns. This tutorial from freeCodeCamp introduces the basics of relational databases, including PostgreSQL and SQL.
 
