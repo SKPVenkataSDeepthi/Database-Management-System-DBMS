@@ -52,7 +52,8 @@ These allow complex data processing, like filtering, grouping, and analyzing lar
 The Library (Database) contains many books (collections). Each Bookshelf (Collection) has a specific topic (e.g., "Fiction" or "Science").
 Every Book (Document) has pages of information stored in a flexible way (like JSON).
 
-* How we interact with this library:
+
+### How we interact with this library:
 1. Creating Databases & Collections 
 we build a new library section (database). we add a bookshelf (collection) for a topic.
 
