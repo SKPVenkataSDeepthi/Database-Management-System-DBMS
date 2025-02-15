@@ -1,4 +1,4 @@
-********** BASH ***********
+********** LINUX ***********
 
 * "echo" is a command that displays the text or message in the terminal. 
 * "pwd" - print working directory ---> tells the path of the folder(tells if the terminal is a folder or directory). 
